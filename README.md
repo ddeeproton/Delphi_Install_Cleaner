@@ -5,7 +5,11 @@ Remove license in Delphi 7 (for a clean install)
 
 ### Releases
 
+https://github.com/ddeeproton/Delphi_Install_Cleaner/tree/master/Releases
+
 ### Sources
+
+https://github.com/ddeeproton/Delphi_Install_Cleaner/tree/master/Sources
 
 ### How to build? 
 
